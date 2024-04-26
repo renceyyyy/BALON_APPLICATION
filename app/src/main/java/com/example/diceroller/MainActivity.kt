@@ -56,7 +56,7 @@ fun DiceRollerApp() {
         contentScale = ContentScale.FillWidth
     )
     Text(
-        text = "Color Game",
+        text = "Color Game",  // ITO NAMAN PO PARA SA PANGALAN NG LARO NA NASA ITAAS
         fontSize = 31.sp,
         modifier = Modifier
             .padding(16.dp)
